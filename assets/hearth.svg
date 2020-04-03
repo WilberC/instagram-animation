@@ -1,0 +1,17 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.42 50.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>CoraT2</title>
+  <g>
+    <path class="cls-1" d="M537.06,402.31a15.71,15.71,0,1,1,22.85-21l0,0,0,0a15.71,15.71,0,1,1,22.71,21.25" transform="translate(-530.15 -373.32)"/>
+    <path class="cls-1" d="M536.37,401.73l23.82,20.32L583.34,402" transform="translate(-530.15 -373.32)"/>
+  </g>
+</svg>

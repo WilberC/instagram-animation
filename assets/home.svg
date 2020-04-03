@@ -1,0 +1,29 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.38 55.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>CasaT2</title>
+  <g>
+    <path class="cls-1" d="M543.5,414.19a7.19,7.19,0,0,1,14.38,0" transform="translate(-521.38 -374.89)"/>
+    <line class="cls-1" x1="22.13" y1="39.29" x2="22.13" y2="52.11"/>
+    <line class="cls-1" x1="36.5" y1="39.29" x2="36.5" y2="52.11"/>
+    <line class="cls-1" x1="38.63" y1="54.73" x2="54.63" y2="54.61"/>
+    <line class="cls-1" x1="57.25" y1="29.61" x2="57.38" y2="50.86"/>
+    <line class="cls-1" x1="1.13" y1="30.48" x2="1" y2="52.11"/>
+    <line class="cls-1" x1="3.63" y1="54.67" x2="20.25" y2="54.67"/>
+    <path class="cls-1" d="M578.24,403.17L550.89,376.3,522.75,404.1" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M522.38,427a2.59,2.59,0,0,0,2.63,2.56" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M578.75,425.75c0,2.07-1.23,3.75-2.75,3.75" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M543.5,427c0,1.42-.84,2.56-1.87,2.56" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M557.88,427a2.41,2.41,0,0,0,2.13,2.63" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M522.5,405.38c0-.78.22-1.41,0.5-1.41" transform="translate(-521.38 -374.89)"/>
+    <path class="cls-1" d="M578.63,404.5c0-.86-0.35-1.55-0.78-1.55" transform="translate(-521.38 -374.89)"/>
+  </g>
+</svg>

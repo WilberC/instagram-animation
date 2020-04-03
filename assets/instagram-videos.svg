@@ -1,0 +1,19 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.83 58.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>RaiosT2</title>
+  <g>
+    <rect class="cls-1" x="1" y="7.56" width="49.83" height="49.83" rx="12" ry="12"/>
+    <line class="cls-1" x1="18.58" y1="0.73" x2="25.92" y2="7.56"/>
+    <line class="cls-1" x1="32.96" y1="0.73" x2="25.92" y2="7.56"/>
+    <path class="cls-1" d="M503.12,415.67l-13.75,4.25,1.63-7.75-13.75,4.25" transform="translate(-464.54 -382.94)"/>
+  </g>
+</svg>

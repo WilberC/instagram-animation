@@ -1,0 +1,17 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.33 59.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>WeonT2</title>
+  <g>
+    <circle class="cls-1" cx="30.83" cy="17.83" r="16.83"/>
+    <path class="cls-1" d="M590.07,430.27V422.6a12,12,0,0,1,12-12H637.4a12,12,0,0,1,12,12v7.67" transform="translate(-589.07 -370.6)"/>
+  </g>
+</svg>
