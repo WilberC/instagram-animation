@@ -76,18 +76,14 @@ body {
 }
 
 .icon-home {
-}
-
-.icon-search {
+    /*background-color: red;*/
+    width: 50px;
+    height: 50px;
+    /*mask: url("/assets/home.png");*/
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 24%, rgba(253, 74, 29, 0.9500175070028011) 67%, rgba(252, 176, 69, 1) 85%);
 }
 
 .icon-more-btn {
-}
-
-.icon-hearth {
-}
-
-.icon-profile {
 }
 
 /* ---- Icon Circle ---- */
@@ -140,6 +136,7 @@ body {
     grid-area: circle-icon;
     width: 260px;
     height: 130px !important;
+    /*background: linear-gradient(90deg, rgba(131, 58, 180, 1) 24%, rgba(253, 74, 29, 0.9500175070028011) 67%, rgba(252, 176, 69, 1) 85%);*/
     background-color: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, .5);
     border-bottom: none;
