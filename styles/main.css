@@ -7,6 +7,7 @@ body {
     align-items: center;
     width: 100vh;
     height: 100vh;
+    background-color: gainsboro;
 }
 
 .footer-nav {
@@ -14,10 +15,12 @@ body {
 }
 
 .nav {
-    width: 500px;
+    width: 550px;
     height: 300px;
     display: grid;
-    grid-template-rows: 200px 100px;
+    grid-template-columns: 100%;
+    /*grid-template-rows: 250px 50px;*/
+    grid-template: "circle-options" "base-options";
     justify-items: center;
 }
 
@@ -32,7 +35,6 @@ body {
     padding: 0;
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
 }
 
 .nav li {
@@ -44,11 +46,28 @@ body {
 /* ---- Icon Base ---- */
 
 .menu-base-options {
+    grid-area: base-options;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 100px;
+    justify-content: space-around;
     justify-items: center;
+    grid-column-gap: 50px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 13px 26px 77px -37px rgba(0, 0, 0, 0.56);
 }
 
 .menu-base-options li {
     padding-top: 20px;
+}
+
+.menu-base-options li:first-child {
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+.menu-base-options li:last-child {
+    padding-right: 25px;
 }
 
 .icon-base {
@@ -72,18 +91,78 @@ body {
 }
 
 /* ---- Icon Circle ---- */
+
+.circle-li-icon {
+    width: 50px !important;
+    height: 50px !important;
+}
+
 .menu-circle-options {
-    justify-items: center;
+    height: 200px;
+    grid-area: circle-options;
+    grid-template-columns: 145px 260px 145px !important;
+    /*grid-template-rows: 80%;*/
+    grid-template: ". circle-icon .";
+    /*justify-items: center;*/
 }
 
-.li-icon-profile-two {
+.circle-li-icon {
+    grid-area: circle-icon;
+}
+
+.icon-circle {
+
+}
+
+.li-icon-instagram-video {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    align-self: flex-end;
+    /*place-self: center;*/
+}
+
+.li-icon-foto {
+    margin-top: 30px;
+    place-self: center center;
+}
+
+.li-icon-more-btn-circle {
+    margin-right: 30px;
+    margin-bottom: 10px;
+    align-self: flex-end;
+    place-self: end end;
+}
+
+/* ---- Other ---- */
+
+.circle-style {
+    position: relative;
+    grid-area: circle-icon;
+    width: 260px;
+    height: 130px !important;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, .5);
+    border-bottom: none;
+    border-radius: 260px 260px 0 0;
+    z-index: -1;
     align-self: flex-end;
 }
 
-.li-icon-camera {
-    align-self: center;
-}
 
-.li-icon-comments {
-    align-self: flex-end;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
